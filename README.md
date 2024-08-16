@@ -1,5 +1,5 @@
 ﻿# caluladora-de-imc
-https://github.com/edsonpds/caluladora-de-imc.git
+
 Este é um projeto simples de uma calculadora de IMC (Índice de Massa Corporal) desenvolvida com HTML, CSS e JavaScript. A calculadora permite que os usuários insiram seu peso e altura para calcular e exibir seu IMC, além de fornecer uma classificação de acordo com os valores calculados.
 
 📋 Funcionalidades
